@@ -6,16 +6,19 @@
     <item
         android:id="@+id/lunch_menu"
         android:orderInCategory="1"
-        android:title="@string/navigation_lunch"/>
+        android:title="@string/navigation_lunch"
+        android:icon="@drawable/baseline_restaurant_24"/>
 
     <item
         android:id="@+id/settings_menu"
         android:orderInCategory="1"
-        android:title="@string/navigation_settings"/>
+        android:title="@string/navigation_settings"
+        android:icon="@drawable/baseline_settings_24"/>
 
     <item
         android:id="@+id/logout_menu"
         android:orderInCategory="1"
-        android:title="@string/navigation_logout"/>
+        android:title="@string/navigation_logout"
+        android:icon="@drawable/baseline_logout_24"/>
 
 </menu>
